@@ -11,3 +11,5 @@
 ## Notes:
 
 * Menu design by https://github.com/flutter/flutter/tree/master/examples/flutter_gallery
+
+* This app only configured for Android.
